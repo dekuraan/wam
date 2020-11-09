@@ -35,5 +35,5 @@ This renderer should have at least:
 Should also be added:
 - Ambient Occlusion
 After the fast renderer is done, I also think a PBR and RTX renderer would be neat.
-### MVP Goal
+## MVP Goal
 3 different WAM games developed through mods.
